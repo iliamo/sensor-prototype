@@ -1,6 +1,6 @@
 # -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
 VERSION = '0.1'
-APPNAME = 'con_pro_repo'
+APPNAME = 'next-ndnsensor'
 
 from waflib import Build, Logs, Utils, Task, TaskGen, Configure
 
