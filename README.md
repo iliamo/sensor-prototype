@@ -35,7 +35,7 @@ The directory structure is as follows:
 
 Building instructions
 ----
-Please, see the [INSTALL.md](INSTALL.md) for build and install instructions.
+Please, see the [INSTALL.md](INSTALL.md) for build and run instructions.
 
 License
 ---

@@ -20,7 +20,7 @@ MacOS build considerations
 
 NDN-CXX & NFD
 --
-First install NDN-CXX, then install NFD.
+First install NDN-CXX, then install NFD, all from source.
 
 consumer-producer-api
 --
